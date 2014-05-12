@@ -1,0 +1,38 @@
+﻿[PMC Code]|^!E||1|Window|1|Onenote_Export_Section_to_mht
+01|WinActivate||1|333|WinActivate||Environment Yukon GIS Knowledgebase - OneNote ahk_class Framework::CFrame|ENV-GIS-KB specifically||
+2|WinActivate||1|333|WinActivate||ONENOTE.EXE|||
+03|[Pause]||1|1077|Sleep|||||
+4|LAlt Down|{LAlt Down}|1|0|Send|||||
+05|[Pause]||1|327|Sleep|||||
+6|f|{f}|1|0|Send|||||
+07|[Pause]||1|63|Sleep|||||
+8|LAlt Up|{LAlt Up}|1|0|Send|||||
+09|[Pause]||1|1341|Sleep|||||
+10|s|{s}|1|0|Send|||||
+011|[Pause]||1|1435|Sleep|||||
+12|s|{s}|1|0|Send|||||
+013|[Pause]||1|1716|Sleep|||||
+14|w|{w}|1|0|Send|||||
+015|[Pause]||1|468|Sleep|||||
+16|s|{s}|1|0|Send|||||
+017|[Pause]||1|469|Sleep|||||
+018|Move|829, 546, 0|1|0|Click|||||
+019|[Pause]||1|124|Sleep|||||
+20|Move|216, 411, 0|1|0|Click|||||
+021|[Pause]||1|2840|Sleep|||||
+22|WinActivate||1|0|WinActivate||Save As ahk_class #32770|||
+23|LAlt Down|{LAlt Down}|1|0|Send|||||
+024|[Pause]||1|296|Sleep|||||
+25|e|{e}|1|0|Send|||||
+026|[Pause]||1|31|Sleep|||||
+27|LAlt Up|{LAlt Up}|1|0|Send|||||
+028|[Pause]||1|905|Sleep|||||
+029|Enter|{Enter}|1|0|Send|||||
+030|[Pause]||1|31|Sleep|||||
+031|Move|98, 46, 0|1|0|Click|||||
+032|[Pause]||1|1857|Sleep|||||
+033|Move|216, 411, 0|1|0|Click|||||
+034|y|{y}|1|0|Send|||||
+035|[Pause]||1|31|Sleep|||||
+036|Move|837, 554, 0|1|0|Click|||||
+
