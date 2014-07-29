@@ -19,7 +19,7 @@ SetBatchLines -1
 #IfWinActive, ahk_exe ONENOTE.EXE
 
 ^!X::
-Onenote_Export_Section_to_mht:
+Onenote_Export_Section_to_pdf:
 WinActivate, ONENOTE.EXE
 Sleep, 333
 Send, {LAlt Down}
