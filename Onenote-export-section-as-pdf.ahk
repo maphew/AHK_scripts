@@ -1,6 +1,6 @@
-﻿; This script was created using Pulover's Macro Creator
+; This script was created using Pulover's Macro Creator
 ;
-; Onenote: Export the current section as compiled hitml (.mht)
+; Onenote: Export the current section as PDF (.pdf)
 
 #NoEnv
 SetWorkingDir %A_ScriptDir%
@@ -27,8 +27,8 @@ Send, {f}
 Send, {LAlt Up}
 Send, {s}
 Send, {s}
-Send, {w}
-Send, {s}
+Send, {f}
+Send, {e}
 Click, 216, 411, 0
 WinActivate, Save As ahk_class #32770
 Send, {LAlt Down}
